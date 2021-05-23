@@ -25,3 +25,8 @@ The graph of trips by weekday per hour will provide data to better understand th
 
 The graph of trips by gender by weekday per hour will provide data to better understand the times with the highest demand during the week and their respective gender demographic allocation. This graph dives deeper than the previous graph because it provides more data on the gender demographic allocation. The time frames for bike demands are consistent with the previous chart. Nevertheless, the current chart shows that there are more male than female users for bikesharing. Data on gender demographic in the workplace in Des Moines would prove to be helpful in determing whether the demand would be high.
 
+### User Trips by Gender by Weekday
+[User Trips by Gender by Weekday](https://public.tableau.com/profile/wenyi.tan#!/vizhome/UserTripsbyGenderbyWeekday_16217485036010/UserTripsbyGenderbyWeekday)
+
+The graph of user trips by gender by weekday will provide data to better understand the user types (either subscriber or non-subscriber), the gender demographic and the weekday demands. This graph dives even deeper than the previous two graphs because it provides more data on the user type which will help understand whether many of these users are short-term users or long-term. According to the graph, the bike-sharing demand is relatively similar across the different days of the week and the different genders. On the other hand, the demand for within the subscribers users type is concentrated in male users and during Thursdays and Fridays.
+
