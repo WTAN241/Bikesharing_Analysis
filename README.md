@@ -30,3 +30,7 @@ The graph of trips by gender by weekday per hour will provide data to better und
 
 The graph of user trips by gender by weekday will provide data to better understand the user types (either subscriber or non-subscriber), the gender demographic and the weekday demands. This graph dives even deeper than the previous two graphs because it provides more data on the user type which will help understand whether many of these users are short-term users or long-term. According to the graph, the bike-sharing demand is relatively similar across the different days of the week and the different genders. On the other hand, the demand for within the subscribers users type is concentrated in male users and during Thursdays and Fridays.
 
+### Average Trip Duration by Age
+[Average Trip Duration by Age](https://public.tableau.com/profile/wenyi.tan#!/vizhome/AverageTripDuration_16217930927520/AverageTripDuration?publish=yes)
+
+The graph of average trip duration by age will provide data to better understand the age demographic and trip duration for the bike sharing users. According to the graph, the bike-sharing demand is more concentrated in the younger generation (ages 18-27), who have an average trip duration of about 16 minutes. Nevertheless, the data shows a spike in users with age around 50 years and have a average trip duration of approximately 30 minutes which may be due to users who are retired and rent the bikes for sightseeing trips.
