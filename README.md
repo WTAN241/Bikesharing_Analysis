@@ -44,3 +44,13 @@ The graph of customer type shows the composition of bike sharing users by trip c
 
 ### Summary
 
+According to the most recent U.S. census, the Des Moines population has the following characterictics:
+    1. The median age is 34.2
+    2. The highest proportion of the population is in the age range of 20-29 years
+    3. The female and male population proportion is 51% and 49% respectively
+    4. Work occupancy is about 92%
+    5. 80% of working population drove alone to work and the mean travel time to work is 18.9 minutes 
+
+The characteristics show that Des Moines has a vast working population who could potentially become future subscribers. Also, the high concentration of the working population driving to work in addition to the short period of time to commute contribute to the feasibility of this implementation. As a result, Des Moines a good candidate for implementing a bike sharing system similar to Citi Bike in New York City. 
+
+
