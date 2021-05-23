@@ -21,7 +21,7 @@ The graph of checkout times by gender will provide data to better understand the
 The graph of trips by weekday per hour will provide data to better understand the times with the highest demand during the week. According to this graph, bikes experience the highest demands from Monday through Friday at around 8AM-9AM and 5PM-7OM. These time frames are consistent with when most customers get out of work. Therefore, it would be important to provide sufficient bikes during these time frames and allocate them close to office areas.
 
 ### Trips by Gender (Weekday per Hour)
-[Trips by Gender (Weekday per Hour)]https://public.tableau.com/profile/wenyi.tan#!/vizhome/TripsbyGenderWeekdayperHour_16217483812650/TripsbyGenderWeekdayperHour)
+[Trips by Gender Weekday per Hour]https://public.tableau.com/profile/wenyi.tan#!/vizhome/TripsbyGenderWeekdayperHour_16217483812650/TripsbyGenderWeekdayperHour)
 
 The graph of trips by gender by weekday per hour will provide data to better understand the times with the highest demand during the week and their respective gender demographic allocation. This graph dives deeper than the previous graph because it provides more data on the gender demographic allocation. The time frames for bike demands are consistent with the previous chart. Nevertheless, the current chart shows that there are more male than female users for bikesharing. Data on gender demographic in the workplace in Des Moines would prove to be helpful in determing whether the demand would be high.
 
