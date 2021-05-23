@@ -15,3 +15,8 @@ The graph of checkout times for users will provide data on the turnaround of bik
 
 The graph of checkout times by gender will provide data to better understand the customer demographic. According to this graph, male customers rent Citi bikes about 3.1x more than female customers. The highest number of bikes rented were for a tripduration of about 5 minutes and there were respectively 108,087 males, 33,041 females and 5,624 unknown registrations that rented those bikes. With that being said, it would be important to gather data on the gender demographic in Des Moines since bikesharing is most heavily used among males.
 
+### Trips by Weekday per Hour
+[Trips by Weekday per Hour](https://public.tableau.com/profile/wenyi.tan#!/vizhome/TripsbyWeekdayperHour_16217481594090/TripsbyWeekdayperHour)
+
+The graph of trips by weekday per hour will provide data to better understand the times with the highest demand during the week. According to this graph, bikes experience the highest demands from Monday through Friday at around 8AM-9AM and 5PM-7OM. These time frames are consistent with when most customers get out of work. Therefore, it would be important to provide sufficient bikes during these time frames and allocate them close to office areas.
+
