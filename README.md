@@ -18,6 +18,8 @@ The graph of checkout times by gender will provide data to better understand the
 ### Trips by Weekday per Hour
 [Trips by Weekday per Hour](https://public.tableau.com/profile/wenyi.tan#!/vizhome/TripsbyWeekdayperHour_16217481594090/TripsbyWeekdayperHour)
 ![Trips by Weekday per Hour](https://github.com/WTAN241/Bikesharing_Analysis/blob/main/Resources/trips_by_weekday_per_hour.PNG)
+
+
 The graph of trips by weekday per hour will provide data to better understand the times with the highest demand during the week. According to this graph, bikes experience the highest demands from Monday through Friday at around 8AM-9AM and 5PM-7OM. These time frames are consistent with when most customers get out of work. Therefore, it would be important to provide sufficient bikes during these time frames and allocate them close to office areas.
 
 ### Trips by Gender (Weekday per Hour)
