@@ -17,10 +17,10 @@ The graph of checkout times by gender will provide data to better understand the
 
 ### Trips by Weekday per Hour
 [Trips by Weekday per Hour](https://public.tableau.com/profile/wenyi.tan#!/vizhome/TripsbyWeekdayperHour_16217481594090/TripsbyWeekdayperHour)
+
 ![Trips by Weekday per Hour](https://github.com/WTAN241/Bikesharing_Analysis/blob/main/Resources/trips_by_weekday_per_hour.PNG)
 
-
-The graph of trips by weekday per hour will provide data to better understand the times with the highest demand during the week. According to this graph, bikes experience the highest demands from Monday through Friday at around 8AM-9AM and 5PM-7OM. These time frames are consistent with when most customers get out of work. Therefore, it would be important to provide sufficient bikes during these time frames and allocate them close to office areas.
+The graph of trips by weekday per hour will provide data to better understand the times with the highest demand during the week. According to this graph, bikes experience the highest demands from Monday through Friday at around 8AM-9AM and 5PM-7PM. These time frames are consistent with when most customers get out of work. Therefore, it would be important to provide sufficient bikes during these time frames and allocate them close to office areas.
 
 ### Trips by Gender (Weekday per Hour)
 [Trips by Gender Weekday per Hour](https://public.tableau.com/profile/wenyi.tan#!/vizhome/TripsbyGenderWeekdayperHour_16217483812650/TripsbyGenderWeekdayperHour)
@@ -29,6 +29,7 @@ The graph of trips by gender by weekday per hour will provide data to better und
 
 ### User Trips by Gender by Weekday
 [User Trips by Gender by Weekday](https://public.tableau.com/profile/wenyi.tan#!/vizhome/UserTripsbyGenderbyWeekday_16217485036010/UserTripsbyGenderbyWeekday)
+
 ![User Trips by Gender by Weekday](https://github.com/WTAN241/Bikesharing_Analysis/blob/main/Resources/user_trips_by_gender_by_weekday.PNG)
 The graph of user trips by gender by weekday will provide data to better understand the user types (either subscriber or non-subscriber), the gender demographic and the weekday demands. This graph dives even deeper than the previous two graphs because it provides more data on the user type which will help understand whether many of these users are short-term users or long-term. According to the graph, the bike-sharing demand is relatively similar across the different days of the week and the different genders. On the other hand, the demand for within the subscribers users type is concentrated in male users and during Thursdays and Fridays.
 
@@ -47,11 +48,11 @@ The graph of customer type shows the composition of bike sharing users by trip c
 ### Summary
 
 According to the most recent U.S. census, the Des Moines population has the following characterictics:
-    1. The median age is 34.2
-    2. The highest proportion of the population is in the age range of 20-29 years
-    3. The female and male population proportion is 51% and 49% respectively
-    4. Work occupancy is about 92%
-    5. 80% of working population drove alone to work and the mean travel time to work is 18.9 minutes 
+        * The median age is 34.2
+        * The highest proportion of the population is in the age range of 20-29 years
+        * The female and male population proportion is 51% and 49% respectively
+        * Work occupancy is about 92%
+        * 80% of working population drove alone to work and the mean travel time to work is 18.9 minutes 
 
 The characteristics show that Des Moines has a vast working population who could potentially become future subscribers. Also, the high concentration of the working population driving to work in addition to the short period of time to commute contribute to the feasibility of this implementation. As a result, Des Moines a good candidate for implementing a bike sharing system similar to Citi Bike in New York City. 
 
