@@ -53,4 +53,10 @@ According to the most recent U.S. census, the Des Moines population has the foll
 
 The characteristics show that Des Moines has a vast working population who could potentially become future subscribers. Also, the high concentration of the working population driving to work in addition to the short period of time to commute contribute to the feasibility of this implementation. As a result, Des Moines a good candidate for implementing a bike sharing system similar to Citi Bike in New York City. 
 
+From the two additional graphs below, it can be concluded that the locations with the highest density in bike trips are midtown and downtown Manhattan which are areas with many office buildings or touristic locations. Therefore, when choosing locations for the bike stations, it is important to choose areas with high density in workers and tourists.
 
+[Start Time Trip Count](https://public.tableau.com/profile/wenyi.tan#!/vizhome/StartTimeTripCount/StartTimeTripCount?publish=yes)
+![Start Time Trip Count](https://github.com/WTAN241/Bikesharing_Analysis/blob/main/Resources/start_time_trip_count.PNG)
+
+[End Time Trip Count](https://public.tableau.com/profile/wenyi.tan#!/vizhome/StartTimeTripCount/EndTimeTripCount?publish=yes)
+![End Time Trip Count](https://github.com/WTAN241/Bikesharing_Analysis/blob/main/Resources/end_time_trip_count.PNG)
